@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Bookstore</title>
+</head>
+<body>
+	<h1>Tom's Bookstore</h1>
+	<p>Browse our collection of amazing books</p>
+ <div class="card-container">
+	<div class="card" id="sally-scifi-adventure">
+	 <h2>Sally's Scifi Adventure</h2>
+	  <p>This is an epic story of Sally and her dog Rex as they navigate through other worlds.</p>
+	  <button class="btn">Buy Now</button>
+	</div>
+	<div class="card" id="dave-cooking-adventure">
+	 <h2>Adventures in Cooking with Dave</h2>
+	  <p>This is the story of Dave as he learns to cook everything from pancakes to pasta, one recipe at a time.</p>
+	  <button class="btn">Buy Now</button>
+	</div>
+  <p>Review your selections and continue to checkout.</p>
+  <button class="btn" id="view-cart">View Cart</button>
+  <button class="btn" id="checkout">Checkout</button>
+ </div>	
+ footer>
+  <p>&#169;TS 2025</p>
+ </footer>
+ </body>
+ </html>
